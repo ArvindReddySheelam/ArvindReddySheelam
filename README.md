@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **DevOps & AWS Cloud**
 
-- 💬 Ask me about **Java, C++,Python, DBMS, MySQL, Computer Networking, AWS Cloud**
+- 💬 Ask me about **Java, C++, Python, DBMS, MySQL, Computer Networking, AWS Cloud**
 
 - 📫 How to reach me **aravindreddy.sheelam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arvind-reddy-78017720b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arvind-reddy-78017720b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arvind-reddy-78017720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arvind-reddy-78017720b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/user5238ht/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user5238ht/" height="30" width="40" /></a>
 </p>
 
