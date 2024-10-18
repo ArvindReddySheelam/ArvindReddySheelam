@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArvindReddySheelam
 - 👀 I’m interested in SWE, SDE, Backend, Cloud Support Engineer, Entry-Level, Graduate Engineer Trainee Roels, and any related position etc..
 - 🌱 I’m currently learning Docker, Spring, DSA, and API's.
-- 📫 How to reach me Email: **aravindreddy.sheelam@gmail.com**, LinkedIN: **aravindsheelam/LinkedIn**
+- 📫 How to reach me Email: **aravindreddy.sheelam@gmail.com**, LinkedIn: **aravindsheelam/LinkedIn**
 
 <h1 align="center">Hi 👋, I'm AravindReddySheelam</h1>
 <h3 align="center">A passionate developer seeking a challenging opportunities</h3>
