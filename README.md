@@ -1,19 +1,16 @@
 - 👋 Hi, I’m @ArvindReddySheelam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in SWE, SDE, Backend, Cloud Support Engineer, Entry-Level, Graduate Engineer Trainee Roels any related position etc..
+- 🌱 I’m currently learning Docker, Spring, DSA, and API's.
+- 📫 How to reach me Email: **aravindreddy.sheelam@gmail.com**, LinkedINn: **aravindsheelam/LinkedIn**
 
 <h1 align="center">Hi 👋, I'm AravindReddySheelam</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer seeking a challenging opportunities</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvindreddysheelam" alt="arvindreddysheelam" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps & AWS Cloud**
+- 🌱 I’m currently learning **Docker, Spring, DSA, and API's**
 
-- 💬 Ask me about **Java, C++, Python, DBMS, MySQL, Computer Networking, AWS Cloud**
+- 💬 Ask me about **Java, C++, Python, DBMS, MySQL, Computer Networking, AWS Cloud, Git, Jenkins, DSA**
 
 - 📫 How to reach me **aravindreddy.sheelam@gmail.com**
 
